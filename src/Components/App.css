@@ -1,0 +1,13 @@
+/* .slick-initialized .slick-slide {
+  margin-left: 20px;
+  
+}
+ */
+.slick-slide {
+  padding: 0 10px;
+  overflow: hidden;
+}
+
+.slick-list {
+  overflow: hidden;
+}
