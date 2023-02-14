@@ -16,7 +16,7 @@ const NextProject = () => {
   return (
     <Container id='contact'>
         <Wrapper>
-            <TextWrap data-aos="zoom-out" data-aos-duration="1500">
+            <TextWrap data-aos="zoom-in" data-aos-duration="1500">
                 <TopHeading>
                     <Title>LET'S WORK ON YOUR NEXT PROJECT</Title>
                     <Intro>
